@@ -1,0 +1,6 @@
+--atlas -f rgba8888 -z auto
+bg.png
+miko.png
+coin.png
+fukuro.png
+bom.png
